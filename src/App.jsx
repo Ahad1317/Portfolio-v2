@@ -1,5 +1,9 @@
+import "./app.scss"
+
 const App = () => {
-  return <div>Hello World</div>;
+  return <div>
+    <section><a href="">Hero</a></section>
+  </div>;
 };
 
 export default App;
